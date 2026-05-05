@@ -1,4 +1,4 @@
-# 🎮 Game Development Journey (Java & Python) — game-software-deve
+# 🎮 Game Development Journey (Java & Python) 
 
 ## 🚀 Overview
 
